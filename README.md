@@ -5,6 +5,7 @@
 -	구성 : 해당 페이지의 Dataset Info. 참고
 ### Dataset Info.
   -	train.csv [파일]	id : 개체 고유 ID
+  
                       개체정보
                         -	father : 개체의 가계 고유 번호 (0 : Unknown)
                         - mother : 개체의 모계 고유 번호 (0 : Unknown)
