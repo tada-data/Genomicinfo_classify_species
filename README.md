@@ -14,7 +14,6 @@
                         - 15개의 SNP 정보 : SNP_01 ~ SNP_15 <br/>
                         - class : 개체의 품종 (A,B,C) <br/>
   <br/>
-  <br/>
   
   -	test.csv [파일]	<br/>
   	                id : 개체 샘플 별 고유 ID <br/>
@@ -24,7 +23,6 @@
                       - gender : 개체 성별 (0 : Unknown, 1 : female, 2 : male) <br/>
                       - trait : 개체 표현형 정보 <br/>
                       - 15개의 SNP 정보 : SNP_01 ~ SNP_15 <br/>
-  <br/>
   <br/>
   
   -	snp_info.csv [파일]	15개의 SNP 세부 정보 <br/>
